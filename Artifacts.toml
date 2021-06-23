@@ -6,7 +6,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "2a3595434e6f65b424b32fd2f2a84649f63ed3633b0a8434706a019f411ea2af"
+    sha256 = "283a25b4fe4215f44fea1362c760d0e40b90401b6d637c0dd06ae44af1ff876d"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "aarch64"
@@ -16,7 +16,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "6ccf6e65ab1d822fd71257a0b8f2799c66cfae9b81af875af61da7306cea03b2"
+    sha256 = "bd54882548ed7594e9b4edf72154b64e843130465e18ca265f26d7cb8bb3e8c9"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "aarch64"
@@ -26,7 +26,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "724e75da34f7f0ebc24297f841f29bdb4570d4c675b17f88f5f3faa7766e158c"
+    sha256 = "b00bf1a6ec5ac43f971abacd42fa23279b77f8a5cc0b97ab0e73e23b42570cd7"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "aarch64"
@@ -36,7 +36,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "6ba0a906d2e900cf7fed4ed376871b81a48d00f1ae320bee2e7d99bef85340b9"
+    sha256 = "d99ebf1d82d979e752f8f452e1e4fb622d4fd652ce2675085fca57506ac42f8f"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-musl-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "aarch64"
@@ -46,7 +46,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "ec9a0be4d54e3ac5f92c2cb3e6bfc93337bc8d31db52e127f63b91e9a71671c6"
+    sha256 = "1fb1d5a2e0f0861e5081888badc92a3e48db9c22a85b5be71366f727764df29c"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-musl-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "aarch64"
@@ -56,7 +56,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "f50abf16d40448d092384a41f2d7bac256f4c4d32790acec3cba66d853cc53ec"
+    sha256 = "888f64442236e1141c533eb3758364a582402a77cc13428826f8c753c4c61467"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.aarch64-linux-musl-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -67,7 +67,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "3a5ae45b6da0031e7c7bdea58ce1749ce85825cfa21b57dc405eb12b862760d0"
+    sha256 = "5f26978319f6824eefb037e92095f7aefb1affdac837a359abe217feb5f9221b"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -78,7 +78,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "f85c0db85c9be898c25ff31ac620426496b0347925bb5590bf22db0be6af6c1e"
+    sha256 = "06b2a703fe04cabfc2d01762f65955a2053abc10acacc601e3e45d71d854291b"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -89,7 +89,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "dcc925a77dfc9b85e90fef1c877f4a157b2a76be920a7966023c6274255471ee"
+    sha256 = "5329c81911e5ce93b16f8ee6af5c01dffb20cbf04a64519403290b3e24fdef51"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -100,7 +100,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "e62b5c08a2d1053ccd20674baaad98f1b12ddc16cc33505b7d4c88823b22ed73"
+    sha256 = "9f71f9dfa99c11cf1446362de665a84f4f0d1d143f68175b97a571e3c66672bb"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -111,7 +111,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "ff9e59ac1ac30e09fe7da4dc5f7c2ada9465d4b739137fd4383bfd4524d4da8b"
+    sha256 = "455cfc853cc58600b820b34915666ae6dc5fc178674d2b2866e5164e4f7a3fb8"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "armv7l"
@@ -122,7 +122,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "18dc1bdaec7977896c12531035cdc83382a3e3f6f7f4af38571c8ce9a0b700eb"
+    sha256 = "472358d497ce301719de031db748b0e4bc583c2cd041243a3422ec9f49a38cbe"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -132,7 +132,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "89e97df9969b1a759e0610f58395e9b0e9e522ae3a10870ff16cc98d1d82355e"
+    sha256 = "c948097c26ca40158be053eb1e519a1b4151213fa133648847124b867db33998"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-gnu-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -142,7 +142,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "43b3a4650f1de42783138133bf1720ab9ac33c2031f57b58515a5f77c5c7af56"
+    sha256 = "d5b744766d1b26073ec4fba8df901bbb63bc8193ed9bd995eaff5780ce3b005c"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-gnu-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -152,7 +152,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "8527a88d8caffebdd379ba4293f060fd41a3909062cd6de53ccc286c4c810c52"
+    sha256 = "b38467debb28a18cba4cfc26e447d8c704107c68589c6710633fdb87df5581bd"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-gnu-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -162,7 +162,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "d96dacb01aeefc8c70cbafd4bf7c710ed40599994cb3cbea3be081e26c55989c"
+    sha256 = "7f8e5cf1e6a9ee906092e2ec81e75fcb451c3568100e042921fdfc1fbc82af44"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-musl-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -172,7 +172,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "6d3caf36ba271cc9bc2bb8a51b4ce71ea4cd010d48776cf9687989d67a503669"
+    sha256 = "23b83e76347081c994b12d4cda590fe8f24114bcc1281281a52a92963c36d4a6"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-musl-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "i686"
@@ -182,7 +182,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "8d9451c4e5fcafbd2216a3e8d72fc8591410942f8a11458a629d99f91be191d0"
+    sha256 = "4e5c3886a2f68597624d9c030d8e624aa0d34f4b93075952bc203e5eda7d6b62"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.i686-linux-musl-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "powerpc64le"
@@ -192,7 +192,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "631dcd10a6497cf2d0bb40f6755b351ae65e423389db97668006188f49b7f0f4"
+    sha256 = "637f41c025ebcb7a3aa76b28cad30b8986c6f9414bdf23a805bca079d31cb14f"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "powerpc64le"
@@ -202,7 +202,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "73e701a65f6571dc180e3f826be176cd3b9535187d5c11fde08d5c13c2c91d94"
+    sha256 = "4e0834d4e15ded4fa0c54466aeef7078f6e6477f86959465a1d0b9629e5848a8"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "powerpc64le"
@@ -212,7 +212,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "613d56c5448feb21db6befa6f24171c072b8014c0e375524b76f2a390886786b"
+    sha256 = "8dd6c153c30cc9c9009475fd7e8cd8418bbc3bb6a46c081c08d9510f407e757f"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -222,7 +222,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "44f09e9d60c4e2974e87a68f7e6872011ad053d0080dd778a230fbc78f77c655"
+    sha256 = "6cbf12b71f0c505035c848a8d63e10a5df44ce32c33152e096dfdd83839ac75b"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -232,7 +232,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "659b6ebd3602c888ebb93d4810300ce14a313a97044318b6434786cfacf6181b"
+    sha256 = "066d89947438b06ec17ead7d27c9adc140e526d76e01f3a163f14f9d3876202c"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -242,7 +242,7 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "945f6970462f48a939e60e8c5b810e4416f01e21c19b7ebad1bd53089b6b6f58"
+    sha256 = "a7c00f3f874a3de46b2ea64ea0e71234bca80408244ccc0db5126d6df49b5bee"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -252,7 +252,7 @@ libgfortran_version = "3.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "30958363712fd14deaff3585f2264678496106ccd8542bbed416aa3638648883"
+    sha256 = "839dee5cb98ee204b6776ae8d60eb8089fa6cdbc00c3b8944580fbc5fac05a34"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-musl-libgfortran3.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -262,7 +262,7 @@ libgfortran_version = "4.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "58362becd265e5fcc4499c1011933e37e3bcddbf8cb0beaba901e3c4acfd4a74"
+    sha256 = "f7abbe5b00a669e6740d52915a1210b6c6e7110941c7b93b72eb2827320ef19b"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-musl-libgfortran4.tar.gz"
 [[wrfuser]]
 arch = "x86_64"
@@ -272,5 +272,5 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[wrfuser.download]]
-    sha256 = "26e2c5a0bd800bcd0d130024494fe7192f3721bd2d07bb6dfc40bd00f2ef07f7"
+    sha256 = "77eb45757709d732fca70dc0f8c32250f022b92f453dbe0549e5d206bab1e5b4"
     url = "https://github.com/freecodegaku/WRFUser_jll.jl/releases/download/wrfuser-v0.0.2+0/wrfuser.v0.0.2.x86_64-linux-musl-libgfortran5.tar.gz"
