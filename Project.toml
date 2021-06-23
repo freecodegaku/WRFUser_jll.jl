@@ -1,6 +1,6 @@
 name = "wrfuser_jll"
 uuid = "66307a7f-b63f-5cd2-ae25-ee9b20ebbd65"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
