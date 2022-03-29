@@ -1,0 +1,141 @@
+[[WRFUser]]
+arch = "aarch64"
+git-tree-sha1 = "c0902f497a011bbe594f3cefca46c3448812d94c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "b971669a0a1a4e679d2e5c9655c6c8f98018fb2e5bba5440d5665fedd6bf54da"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[WRFUser]]
+arch = "aarch64"
+git-tree-sha1 = "f4851e1722ee4a6b5fe82cc7bccd7290d1d3e63b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "db457fae23b75f8e0d0c13a134c876cad58f3e665900faf4e08b3290f2bc50c2"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[WRFUser]]
+arch = "aarch64"
+git-tree-sha1 = "b8a7f0fe1e4b30113038b277e8443552380b6272"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "f898d06e8444903cc41bd72dccdd71a327fbb3898215e901b0d7a29ccdc06843"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[WRFUser]]
+arch = "i686"
+git-tree-sha1 = "814122b6a041b653da367904e0ff326a65148fbe"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "e928cfecac108f52a58c8d5785926fc81e6a0312d5318de2b53e9b485eb34bea"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.i686-w64-mingw32-libgfortran3.tar.gz"
+[[WRFUser]]
+arch = "i686"
+git-tree-sha1 = "8bdced41c5566610ef2dc7d9c943c6c3d4e727d9"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "2220a42ce4fcf0073411cd98c4e85e2edb11d2e393aa8d3da691c52cbe2fd13a"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.i686-w64-mingw32-libgfortran4.tar.gz"
+[[WRFUser]]
+arch = "i686"
+git-tree-sha1 = "660b86462670e0da9444be6cb9d53f30b5e8ab69"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "73755e5a1c9aa216e030596b855c43036289ffb4efe7900b2c0774a082e3ec30"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "8c68ae91b3a4b7498396bed174671968949db505"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[WRFUser.download]]
+    sha256 = "28a6211eb73d085bc91192b096c5a723c8d7bba30186eab4aff171efe8c194a4"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "688edac59a29f9a3f5d9e3018880c132ba217edf"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[WRFUser.download]]
+    sha256 = "bc71512b18a05a35a0e0b2e7dc72d7b2a9e7a2c7fd774a9eca60c8965d99f8a5"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "07e2205ce9dc68886e6a55d389f2c21dc07e4374"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[WRFUser.download]]
+    sha256 = "54318ee0bc3325f6be03a449392e89401577a61949721b8c2c15487133c699be"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "66855dc36e0ed116eca46d0eb7186529a0cb448d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "aee042623d5da94ce9113ab2c4799d5939473347b5bb39220b6f41536d021527"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "85ae83ce1cbbbc035ad1404b8bd890bb17f0cac9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "27883e9526d45e0de01133bf0c227e0fcb7b8837bdeebeca23f5cba1316716ab"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "9bc7b4054d6e3a46db1f439a0e0f1ef832105080"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[WRFUser.download]]
+    sha256 = "fa27154ff538e941630e9455234392ebcc9cce2234afa0a9052a1df27b09b56b"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "b01bc534321db15f998318ad8bc785d65591b49c"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "e5f9827478e8d7018ee3f57cd967834a7bc6a4b51f01094bf0559340010b5adc"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "dfd1f0d75413f9f54dea4be7f71442fb986f07bf"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "df77fc459ca89dbf45537250779df42cb484eaf7f99f9d924cb227467b43261e"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[WRFUser]]
+arch = "x86_64"
+git-tree-sha1 = "92f20c82a73afd0ca94ea713f20df25cacb3792a"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[WRFUser.download]]
+    sha256 = "33651fc4083373032a8e265b0d89ab0464e5099c43a7138f66c3b2b9a1442d54"
+    url = "https://github.com/local/releases/download/WRFUser-v0.0.1+0/WRFUser.v0.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
